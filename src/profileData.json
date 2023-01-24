@@ -1,0 +1,92 @@
+{
+	"landing": {
+		"firstName": "Bence",
+		"lastName": "Hadlaczky",
+		"phoneNumber": " ",
+		"bio": "I am an electrical engineering MSc student at the Budapest University of Technology and Economics, specialized on Embedded Systems and Autonomous Robots & Vehicles. My Bachelor thesis is focused on the 'Design of Control Stability Program for Vehicles' using soft computing techniques in MATLAB (genetic algorithm (GA), particle swarm optimization (PSO), fuzzy logic controller and adaptive neuro-fuzzy systems (ANFIS)). The ongoing Master thesis is focused on 'Self-Driving Car with Deep Learning, Reinforcement Learning'. I am currently working part-time at the Institute for Computer Science and Control in Budapest as a research and development engineer.",
+    "email": " ",
+    "linkedin": "https://www.linkedin.com/in/bence-hadlaczky-0549a01a6",
+		"github": "https://github.com/hadlaczkyb"
+	},
+	"experience": [
+		{
+			"position": "Research and Development Engineer",
+			"organization": "SZTAKI - Institiute for Computer Science and Control",
+			"aboutWork": "My work's focus is the estimation of the flexible dynamics of an unmanned aerial vehicle utilizing model based and data-driven techniques. This research is part of the FLiPASED H2020 EU-funded project and the results so far were presented at the IFASD-2022 conference.",
+			"fromDate": "2020",
+			"toDate": "present"
+		}
+	],
+	"education": [{
+			"university": "Katholieke Universiteit Leuven",
+			"degree": "Electronics and Automation MSc (Erasmus scholarship)",
+			"gpa": "-",
+			"fromDate": "2023",
+			"toDate": "present"
+		},
+    {
+			"university": "Budapest University of Technology and Economics",
+			"degree": "Electrical Engineer MSc",
+			"gpa": "-",
+			"fromDate": "2021",
+			"toDate": "present"
+		},
+    {
+			"university": "Budapest University of Technology and Economics",
+			"degree": "Electrical Engineer BSc",
+			"gpa": "Graduated with Honours (GPA: 4.97)",
+			"fromDate": "2017",
+			"toDate": "2021"
+		}
+	],
+	"programming": [{
+			"name": "MATLAB & Simulink"
+		},
+		{
+			"name": "Python & PyTorch"
+		},
+		{
+			"name": "C & Embedded-C"
+		},
+		{
+			"name": "C++"
+		},
+		{
+			"name": "C#"
+		},
+		{
+			"name": "Java"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "Kotlin (Android)"
+		}
+	],
+	"industry": [{
+			"name": "Soft Computing"
+		},
+		{
+			"name": "Deep Learning"
+		},
+		{
+			"name": "Reinforcement Learning"
+		},
+		{
+			"name": "Control Systems"
+		},
+		{
+			"name": "System State Estimation"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Despite being an electrical engineering student, one of my main area of interests is automobiles (especially from the 1980s to the mid 2000s). Because of this, I often spend time reading about the latest advancements of the automotive industry and the history and details of specific car models.",
+		"paragraphTwo": "In my free-time I regularly do workout. I enjoy listening to classical and rock music and play my acoustic guitar. I am also quite fond of movies and serials."
+	},
+	"publications": [{
+			"title": "Comparison of EKF and Neural Network based wing shape estimation of a flexible wing demonstrator (IFASD-2022)",
+			"link": "https://www.researchgate.net/publication/363633826_Comparison_of_EKF_and_Neural_Network_based_wing_shape_estimation_of_a_flexible_wing_demonstrator"
+		}
+	]
+}
