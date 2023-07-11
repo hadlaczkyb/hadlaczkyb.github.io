@@ -13,30 +13,37 @@
 			"position": "Research and Development Engineer",
 			"organization": "SZTAKI - Institute for Computer Science and Control",
 			"aboutWork": "The focus of my work is the estimation of the flexible dynamics of an unmanned aerial vehicle utilizing model-based and machine learning-based techniques. This research is part of the FLiPASED H2020 EU-funded project.",
-			"fromDate": "2021",
+			"fromDate": "03.2021",
 			"toDate": "present"
+		},
+		{
+			"position": "Intern",
+			"organization": "SZTAKI - Institute for Computer Science and Control",
+			"aboutWork": "Reconfiguration and expansion of the IMU sensor system of a UAV used in the FLiPASED project.",
+			"fromDate": "07.2020",
+			"toDate": "09.2020"
 		}
 	],
 	"education": [{
 			"university": "Katholieke Universiteit Leuven",
 			"degree": "Electronics and Automation MSc (Erasmus scholarship)",
 			"gpa": "-",
-			"fromDate": "2023",
-			"toDate": "2023"
+			"fromDate": "02.2023",
+			"toDate": "07.2023"
 		},
     {
 			"university": "Budapest University of Technology and Economics",
 			"degree": "Electrical Engineer MSc",
 			"gpa": "Graduated with Honours (GPA: 4.95)",
-			"fromDate": "2021",
-			"toDate": "2023"
+			"fromDate": "02.2021",
+			"toDate": "07.2023"
 		},
     {
 			"university": "Budapest University of Technology and Economics",
 			"degree": "Electrical Engineer BSc",
 			"gpa": "Graduated with Honours (GPA: 4.97)",
-			"fromDate": "2017",
-			"toDate": "2021"
+			"fromDate": "09.2017",
+			"toDate": "01.2021"
 		}
 	],
 	"programming": [{
@@ -68,6 +75,9 @@
 			"name": "Soft Computing"
 		},
 		{
+			"name": "Machine Learning"
+		},
+		{
 			"name": "Deep Learning"
 		},
 		{
@@ -78,6 +88,12 @@
 		},
 		{
 			"name": "System State Estimation"
+		},
+		{
+			"name": "Embedded Systems"
+		},
+		{
+			"name": "Computer Vision"
 		}
 	],
 	"interests": {
