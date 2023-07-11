@@ -3,7 +3,7 @@
 		"firstName": "Bence",
 		"lastName": "Hadlaczky",
 		"phoneNumber": " ",
-		"bio": "I am an electrical engineering MSc student at the Budapest University of Technology and Economics, specialized on Embedded Systems and Autonomous Robots & Vehicles. My Bachelor thesis is focused on the 'Design of Control Stability Program for Vehicles' using soft computing techniques in MATLAB (genetic algorithm (GA), particle swarm optimization (PSO), fuzzy logic controller and adaptive neuro-fuzzy systems (ANFIS)). The ongoing Master thesis is focused on 'Self-Driving Car with Deep Learning, Reinforcement Learning'. I am currently working part-time at the Institute for Computer Science and Control in Budapest as a research and development engineer.",
+		"bio": "I am an electrical engineer with 2+ years of experience as an R&D engineer in the field of machine learning and control system design at the Institute for Computer Science and Control. I also have expertise in programming of embedded systems, autonomous robots & vehicles, and computer vision. My Bachelor thesis is focused on the 'Design of Control Stability Program for Vehicles' using soft computing techniques in MATLAB (genetic algorithm (GA), particle swarm optimization (PSO), fuzzy logic controller and adaptive neuro-fuzzy systems (ANFIS)). My Master thesis is about 'Self-Driving Car with Deep Reinforcement Learning'.",
     "email": " ",
     "linkedin": "https://www.linkedin.com/in/bence-hadlaczky-0549a01a6",
 		"github": "https://github.com/hadlaczkyb"
@@ -11,9 +11,9 @@
 	"experience": [
 		{
 			"position": "Research and Development Engineer",
-			"organization": "SZTAKI - Institiute for Computer Science and Control",
-			"aboutWork": "My work's focus is the estimation of the flexible dynamics of an unmanned aerial vehicle utilizing model based and data-driven techniques. This research is part of the FLiPASED H2020 EU-funded project and the results so far were presented at the IFASD-2022 conference.",
-			"fromDate": "2020",
+			"organization": "SZTAKI - Institute for Computer Science and Control",
+			"aboutWork": "The focus of my work is the estimation of the flexible dynamics of an unmanned aerial vehicle utilizing model-based and machine learning-based techniques. This research is part of the FLiPASED H2020 EU-funded project.",
+			"fromDate": "2021",
 			"toDate": "present"
 		}
 	],
@@ -22,14 +22,14 @@
 			"degree": "Electronics and Automation MSc (Erasmus scholarship)",
 			"gpa": "-",
 			"fromDate": "2023",
-			"toDate": "present"
+			"toDate": "2023"
 		},
     {
 			"university": "Budapest University of Technology and Economics",
 			"degree": "Electrical Engineer MSc",
-			"gpa": "-",
+			"gpa": "Graduated with Honours (GPA: 4.95)",
 			"fromDate": "2021",
-			"toDate": "present"
+			"toDate": "2023"
 		},
     {
 			"university": "Budapest University of Technology and Economics",
@@ -85,6 +85,10 @@
 		"paragraphTwo": "In my free-time I regularly do workout. I enjoy listening to classical and rock music and play my acoustic guitar. I am also quite fond of movies and serials."
 	},
 	"publications": [{
+			"title": "Wing shape estimation with Extended Kalman filtering and KalmanNet neural network of a flexible wing aircraft (L4DC-2023)",
+			"link": "https://proceedings.mlr.press/v211/hadlaczky23a.html"
+		},
+		{
 			"title": "Comparison of EKF and Neural Network based wing shape estimation of a flexible wing demonstrator (IFASD-2022)",
 			"link": "https://www.researchgate.net/publication/363633826_Comparison_of_EKF_and_Neural_Network_based_wing_shape_estimation_of_a_flexible_wing_demonstrator"
 		}
