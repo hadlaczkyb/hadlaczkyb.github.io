@@ -3,7 +3,7 @@
 		"firstName": "Bence",
 		"lastName": "Hadlaczky",
 		"phoneNumber": " ",
-		"bio": "I am an electrical engineer with 2+ years of experience as an R&D engineer in the field of machine learning and control system design at the Institute for Computer Science and Control. I also have expertise in programming of embedded systems, autonomous robots & vehicles, and computer vision. My Bachelor thesis is focused on the 'Design of Control Stability Program for Vehicles' using soft computing techniques in MATLAB (genetic algorithm (GA), particle swarm optimization (PSO), fuzzy logic controller and adaptive neuro-fuzzy systems (ANFIS)). My Master thesis is about 'Self-Driving Car with Deep Reinforcement Learning'.",
+		"bio": "I am an electrical engineer with 2+ years of experience as an R&D engineer in the field of machine learning and control system design at the Institute for Computer Science and Control. I also have expertise in programming of embedded systems, autonomous robots & vehicles, and computer vision.",
     "email": " ",
     "linkedin": "https://www.linkedin.com/in/bence-hadlaczky-0549a01a6",
 		"github": "https://github.com/hadlaczkyb"
@@ -27,6 +27,7 @@
 	"education": [{
 			"university": "Katholieke Universiteit Leuven",
 			"degree": "Electronics and Automation MSc (Erasmus scholarship)",
+			"thesis": " ",
 			"gpa": " ",
 			"fromDate": "02.2023",
 			"toDate": "07.2023"
@@ -34,6 +35,7 @@
     {
 			"university": "Budapest University of Technology and Economics",
 			"degree": "Electrical Engineer MSc",
+			"thesis": "Thesis: Self-Driving Car with Deep Reinforcement Learning",
 			"gpa": "Graduated with Honours (GPA: 4.95)",
 			"fromDate": "02.2021",
 			"toDate": "07.2023"
@@ -41,6 +43,7 @@
     {
 			"university": "Budapest University of Technology and Economics",
 			"degree": "Electrical Engineer BSc",
+			"thesis": "Thesis: Design of Control Stability Program for Vehicles with Soft-Computing Techniques",
 			"gpa": "Graduated with Honours (GPA: 4.97)",
 			"fromDate": "09.2017",
 			"toDate": "01.2021"
