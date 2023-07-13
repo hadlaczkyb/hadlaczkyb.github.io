@@ -12,14 +12,14 @@
 		{
 			"position": "Research and Development Engineer",
 			"organization": "SZTAKI - Institute for Computer Science and Control",
-			"aboutWork": "The focus of my work is the estimation of the flexible dynamics of an unmanned aerial vehicle utilizing model-based and machine learning-based techniques. This research is part of the FLiPASED H2020 EU-funded project.",
+			"aboutWork": "Estimation of the flexible states and dynamics of the wings of an unmanned aerial vehicle (UAV) utilizing model-based and machine learning-based techniques. The model-based approach uses extended Kalman-filtering. The machine learning-based approaches use recurrent neural networks (RNN) and convolutional neural networks (CNN). This research is part of the FLiPASED H2020 EU-funded project. Two conference articles are published discussing the results.",
 			"fromDate": "03.2021",
 			"toDate": "present"
 		},
 		{
 			"position": "Intern",
 			"organization": "SZTAKI - Institute for Computer Science and Control",
-			"aboutWork": "Reconfiguration and expansion of the IMU sensor system of a UAV used in the FLiPASED project.",
+			"aboutWork": "Reconfiguration and expansion of the IMU sensor system of an unmanned aerial vehicle (UAV) as a part of the FLiPASED H2020 EU-funded project. The sensors are located on the wings of the aircraft and are used for monitoring aeroelastic flutter. The IMU sensors use PIC microcontrollers that are connected to the ST microcontroller of the FCC. Data transmission is done via CAN bus.",
 			"fromDate": "07.2020",
 			"toDate": "09.2020"
 		}
@@ -27,7 +27,7 @@
 	"education": [{
 			"university": "Katholieke Universiteit Leuven",
 			"degree": "Electronics and Automation MSc (Erasmus scholarship)",
-			"gpa": "-",
+			"gpa": " ",
 			"fromDate": "02.2023",
 			"toDate": "07.2023"
 		},
